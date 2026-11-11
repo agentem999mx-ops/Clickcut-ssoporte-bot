@@ -2,3 +2,10 @@ node_modules/
 sesion_soporte/
 .env
 *.log
+data/
+groups/auth/
+groups/config.local.json
+.env.*
+!.env.example
+*.sqlite*
+coverage/
